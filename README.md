@@ -85,6 +85,20 @@ For the enclosure, I opened up Fusion 360 and made a simple two-part shell—jus
 
 
 
+# updated Case
+
+ive added a cool pattern for base , and added a secret code on top which says keval is cool
+
+<img width="846" height="519" alt="Screenshot 2025-08-06 122605" src="https://github.com/user-attachments/assets/f129295a-6d97-4b4b-bce1-c64a3b061d65" />
+
+<img width="841" height="360" alt="Screenshot 2025-08-06 122623" src="https://github.com/user-attachments/assets/ab6de233-adae-49dc-a3c8-f5b65e5ceb89" />
+
+<img width="883" height="580" alt="Screenshot 2025-08-06 122615" src="https://github.com/user-attachments/assets/08311c0d-b99f-4c51-a357-9e48e86e7d35" />
+
+
+
+
+
 ---
 
 ## 🧾 Bill of Materials
